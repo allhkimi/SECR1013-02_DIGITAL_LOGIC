@@ -105,8 +105,5 @@
             </tr>
         </tbody>
     </table>
-    <h3>Additional Course Information</h3>
-    <p><strong>Course Coordinators:</strong> Dr. Mohd Fo’ad bin Rohani</p>
-    <p><strong>Software Required:</strong> Deeds Software, WinCUPL, Wellon Software</p>
 </body>
 </html>
