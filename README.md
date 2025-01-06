@@ -105,5 +105,19 @@
             </tr>
         </tbody>
     </table>
+    <section id="reflection" class="mt-5">
+    <h2 class="text-center mb-4">Reflection</h2>
+    <div class="container">
+        <p>
+In the <strong>Digital Logic</strong> subject, many important topics were covered. The basics of logic gates, such as AND, OR, NOT, NAND, and NOR, were learned. Their functions were studied, and their use in creating digital circuits was explored.
+
+The DEEDS software was used to design and test circuits. It helped in understanding how digital circuits work in real life. Practical tasks like creating and simulating circuits were done using this tool, which made the lessons more engaging.
+
+Combinational and sequential circuits, like multiplexers, decoders, flip-flops, and counters, were introduced. Their importance in the design of computer hardware was explained. Binary arithmetic and Boolean algebra were practiced, and Karnaugh Maps (K-maps) were used to simplify logic expressions.
+
+By the end of the course, basic knowledge of digital circuits and their role in computer systems was gained. The subject provided a good foundation for learning about hardware in the future.
+        </p>
+    </div>
+</section>
 </body>
 </html>
